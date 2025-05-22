@@ -86,7 +86,7 @@ cd phillies-qualifying-offer-app
 2. Navigate into the unzipped director:
 
 ```bash
-cd phillies-qualifying-offer-app
+cd phillies-salary-dashboard
 ```
 
 ### 2. Install and run the backend
