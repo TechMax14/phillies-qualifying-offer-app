@@ -41,7 +41,7 @@ In Major League Baseball, a team may offer a departing free agent a **one-year c
 ## Project Structure
 
 <pre>
-phillies-qualifying-offer-app/
+phillies-salary-dashboard/
 ├── backend/
 │ ├── server.py # Flask API entry point
 │ ├── data_utils.py # Scraping and salary cleaning
