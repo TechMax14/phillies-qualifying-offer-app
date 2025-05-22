@@ -150,3 +150,7 @@ This project was developed with help from online documentation, open-source libr
 ## License
 
 This project was created as part of a technical assessment and is not intended for commercial distribution.
+
+Links:
+- Assessment: https://questionnaire-148920.appspot.com/swe/
+- Data: https://questionnaire-148920.appspot.com/swe/data.html
